@@ -1,4 +1,6 @@
-Intoduction :
+**Title** public vs private. vs protected vs read only access modifier in TS OPP
+
+**Intoduction** :
 In OOP access modifers are used to defined how properteis and methods can be accessed.
 In Type Scripts We have different types of aceess modifier such as public , private,protected and read only .
 All of them have different purpose.
@@ -26,7 +28,7 @@ class Student{
 }
 
 
-Explantion:
+**Explantion:**
 
 public:
 public access modifiers means that it can be acess from anywhere.It could br from child class.
@@ -46,5 +48,5 @@ Readonly prevent a property from reassigned after it's initialization.
 In the example studentid can't be modified after it was initialized
 
 
-Conclusion:
+**Conclusion:**
 Acess modifier are one of the most important terms in OOP.It helps us to controll data.It can used too handle security

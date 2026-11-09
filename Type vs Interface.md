@@ -1,3 +1,4 @@
+**Title** Type vs Interface
 # **Introduction:**
 In TypeScripts type and interface both are used for defining shape for objects.
 They both can used for same task many time but there is some differences between them interms of their use cases.
