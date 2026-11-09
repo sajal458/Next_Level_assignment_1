@@ -6,11 +6,13 @@ They both can used for same task many time but there is some differences between
 **code Example:**
 Interface:
 interface Animal{
+
   name: string;
-}
+};
 interface Animal{
+
   breed: string;
-}
+};
 
 Type alias:
 type AnimalType={
